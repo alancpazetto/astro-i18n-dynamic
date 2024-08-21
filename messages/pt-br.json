@@ -1,0 +1,11 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "homePageTitle": "Página principal",
+  "homePageHeading": "Esta é a Página principal",
+  "homePageContent": "Esta página carrega a linguagem padrão: {languageTag}",
+  "loginTitle": "Página de login",
+  "loginHeading": "Esta é a página de login",
+  "langBasedHomePageTitle": "Página principal baseada na rota",
+  "langBasedHomePageHeading": "Esta é uma página inicial baseada em parâmetros de rota de linguagem",
+  "goToLanguage": "Ir para Português"
+}

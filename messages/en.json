@@ -1,0 +1,11 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "homePageTitle": "Home Page",
+  "homePageHeading": "This is the Home Page",
+  "homePageContent": "This page is loading default language: {languageTag}",
+  "loginTitle": "Login Page",
+  "loginHeading": "This is the login page",
+  "langBasedHomePageTitle": "Lang based Home Page",
+  "langBasedHomePageHeading": "This is a home base with route lang params",
+  "goToLanguage": "Go to English"
+}
